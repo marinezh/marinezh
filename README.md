@@ -1,10 +1,9 @@
 Hi there 👋 I'm Marina
 
+- Hive Helsinki student 🐝
+- Trying to survive learning C 💡
+- I am interested in Web Development 🚀
 
-- 🌱 I’m currently learning at Business College Helsinki
-- 🤖 Doing Full Stack Web Developer program from autumn 2022.
-- 👽 Enjoy fiction books and movies.
-- 🌿 Love beautiful Finland and learning the Finnish language.
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
