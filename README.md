@@ -1,8 +1,10 @@
 Hi there 👋 I'm Marina
 
-- Hive Helsinki student 🐝
-- Trying to survive learning C 💡
-- I am interested in Web Development 🚀
+👋 Hi, I’m Marina
+🎓 Student at Hive Helsinki (42 School)
+💡 Currently learning C and C++
+🚀 Passionate about Web Development and AI
+🧩 I enjoy solving problems, building projects, and exploring creative ideas
 
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
