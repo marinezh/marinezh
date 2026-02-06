@@ -7,6 +7,8 @@
 I have hands-on experience with **React, TypeScript, and modern frontend tooling**, a solid foundation in **C/C++ and system programming**, and practical exposure to **backend APIs, databases, and DevOps workflows**.
 
 I enjoy solving complex problems, building real products, and turning ideas into polished user experiences.
+<br />
+
 ---
 
 ### 🖥 Frontend
