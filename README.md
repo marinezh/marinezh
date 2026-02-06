@@ -6,6 +6,17 @@ Hi there 👋 I'm Marina
 🚀 Passionate about Web Development and AI
 🧩 I enjoy solving problems, building projects, and exploring creative ideas
 
+## 👋 Hi, I'm Marina
+
+🎓 Student at **Hive Helsinki (School 42)**  
+💻 Frontend Developer with strong software engineering fundamentals  
+🚀 Passionate about building clean, scalable, and user-friendly web applications  
+
+I have hands-on experience with **React, TypeScript, and modern frontend tooling**, a solid foundation in **C/C++ and system programming**, and practical exposure to **backend APIs, databases, and DevOps workflows**.
+
+I enjoy solving complex problems, building real products, and turning ideas into polished user experiences.
+
+
 
 <!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -18,4 +29,3 @@ Hi there 👋 I'm Marina
 <br />
 <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marinezh&layout=compact)
