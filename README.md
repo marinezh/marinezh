@@ -1,11 +1,3 @@
-Hi there 👋 I'm Marina
-
-👋 Hi, I’m Marina
-🎓 Student at Hive Helsinki (42 School)
-💡 Currently learning C and C++
-🚀 Passionate about Web Development and AI
-🧩 I enjoy solving problems, building projects, and exploring creative ideas
-
 ## 👋 Hi, I'm Marina
 
 🎓 Student at **Hive Helsinki (School 42)**  
@@ -16,16 +8,17 @@ I have hands-on experience with **React, TypeScript, and modern frontend tooling
 
 I enjoy solving complex problems, building real products, and turning ideas into polished user experiences.
 
+### 🖥 Frontend
 
-
-<!-- <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> -->
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<!-- <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<!-- <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
 <br />
 <br />
 
