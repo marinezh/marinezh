@@ -73,5 +73,10 @@ I enjoy solving complex problems, building real products, and turning ideas into
 - Deepening C++ and system programming skills at Hive Helsinki  
 - Building scalable, production-ready React & TypeScript applications  
 - Strengthening system design and architectural thinking  
+---
+### 🤝 Let’s Connect
+
+[![Email](https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white)](mailto:mazhivotova@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/marinazhivotova/)
 
 
