@@ -7,6 +7,7 @@
 I have hands-on experience with **React, TypeScript, and modern frontend tooling**, a solid foundation in **C/C++ and system programming**, and practical exposure to **backend APIs, databases, and DevOps workflows**.
 
 I enjoy solving complex problems, building real products, and turning ideas into polished user experiences.
+---
 
 ### 🖥 Frontend
 
@@ -20,7 +21,6 @@ I enjoy solving complex problems, building real products, and turning ideas into
 ![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
 <br />
-<br />
 ### ⚙️ Backend & APIs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -28,15 +28,11 @@ I enjoy solving complex problems, building real products, and turning ideas into
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 ![REST API](https://img.shields.io/badge/REST-005571?style=flat)
 
----
-
 ### 🗄 Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
-
----
 
 ### 🧠 Programming Languages
 
@@ -44,8 +40,6 @@ I enjoy solving complex problems, building real products, and turning ideas into
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-
----
 
 ### 🛠 DevOps & Tooling
 
@@ -56,16 +50,12 @@ I enjoy solving complex problems, building real products, and turning ideas into
 ![Makefile](https://img.shields.io/badge/Makefile-000000?style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
----
-
 ### 🤖 AI & Productivity
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat&logo=openai)
 ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot)
 ![Figma Make](https://img.shields.io/badge/Figma_Make-F24E1E?style=flat&logo=figma)
-
----
 
 ### 🧩 Engineering Practices
 
@@ -75,6 +65,7 @@ I enjoy solving complex problems, building real products, and turning ideas into
 ![Component--Driven Development](https://img.shields.io/badge/Component--Driven_Development-555555?style=flat)
 ![Agile Teamwork](https://img.shields.io/badge/Agile_Teamwork-0052CC?style=flat)
 
+---
 ### 🌱 Currently
 
 - Deepening C++ and system programming skills at Hive Helsinki  
