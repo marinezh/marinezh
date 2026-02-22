@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Marina
 
 🎓 Student at **Hive Helsinki (School 42)**  
-💻 Frontend Developer with strong software engineering fundamentals  
+💻 Software Developer | React & TypeScript | Exploring Go & Backend
 🚀 Passionate about building clean, scalable, and user-friendly web applications  
 
 I have hands-on experience with **React, TypeScript, and modern frontend tooling**, a solid foundation in **C/C++ and system programming**, and practical exposure to **backend APIs, databases, and DevOps workflows**.
